@@ -17,7 +17,9 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-  puts num1 = 
+  puts num1 = 4
+  puts num2 = 30
+  sum = num1 * num2
 end
 
 def modulo(num1, num2)
