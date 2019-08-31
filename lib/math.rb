@@ -23,7 +23,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  puts num1 = 34
+  puts num1 = 5 
   puts num2 = 5 
   sum == num1 / num2
 end
